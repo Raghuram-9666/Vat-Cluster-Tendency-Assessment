@@ -1,4 +1,6 @@
-# VAT: A Tool for Visual Assessment of (Cluster) Tendency
+# vat-cluster-tendency-assessment
+
+Visual Assessment of Tendency (VAT): a tool for assessing cluster tendency.
 
 ## Project Overview
 This project implements the Visual Assessment of Tendency (VAT) algorithm, which helps in visually assessing the clustering tendency of a dataset. Unlike traditional clustering methods that automatically assign clusters, VAT allows users to check whether meaningful clusters exist before applying clustering algorithms.
@@ -30,8 +32,8 @@ To set up and run the project, follow these steps:
 
 ```bash
 # Clone the repository
-git clone <repository_url>
-cd <repository_folder>
+git clone <repository_url> vat-cluster-tendency-assessment
+cd vat-cluster-tendency-assessment
 
 # Create a virtual environment (optional but recommended)
 python3 -m venv venv
@@ -47,7 +49,7 @@ pip install -r requirements.txt
 If you prefer to use the Jupyter Notebook version, run:
 
 ```bash
-VAT_Algorithm_ML_Group_4.ipynb
+vat-cluster-tendency-assessment.ipynb
 ```
 
 This notebook contains the VAT algorithm implementation along with various test cases.
