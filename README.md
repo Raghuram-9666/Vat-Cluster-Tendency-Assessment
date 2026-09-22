@@ -32,7 +32,7 @@ To set up and run the project, follow these steps:
 
 ```bash
 # Clone the repository
-git clone <repository_url> vat-cluster-tendency-assessment
+git clone https://github.com/Raghuram-9666/Vat-Cluster-Tendency-Assessment.git
 cd vat-cluster-tendency-assessment
 
 # Create a virtual environment (optional but recommended)
