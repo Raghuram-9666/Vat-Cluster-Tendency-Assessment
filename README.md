@@ -1,4 +1,4 @@
-# vat-cluster-tendency-assessment
+# VAT Cluster Tendency Assessment
 
 Visual Assessment of Tendency (VAT): a tool for assessing cluster tendency.
 
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 If you prefer to use the Jupyter Notebook version, run:
 
 ```bash
-vat-cluster-tendency-assessment.ipynb
+jupyter notebook vat-cluster-tendency-assessment.ipynb
 ```
 
 This notebook contains the VAT algorithm implementation along with various test cases.
