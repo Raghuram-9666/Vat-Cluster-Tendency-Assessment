@@ -71,6 +71,15 @@ We evaluated the VAT algorithm on different datasets:
 ## Results
 The VAT algorithm successfully identified clustering tendencies in datasets, confirming its effectiveness in exploratory data analysis.
 
+**Linear — no hidden structure, VAT shows no clusters:**
+![VAT Linear Data](data/vat_linear_data.png)
+
+**Circular — two clear clusters appear after ordering:**
+![VAT Circular Data](data/vat_circular_data.png)
+
+**Iris — three clusters, matching the known species:**
+![VAT IRIS Dataset](data/vat_iris_dataset.png)
+
 ## Limitations
 - Computationally expensive for very large datasets.
 - Requires interpretation of visualization.
